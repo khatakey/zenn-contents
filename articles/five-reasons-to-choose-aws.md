@@ -3,7 +3,7 @@ title: "オンプレミスと比べてAWSが優れている利点5つとその�
 emoji: "📌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [aws]
-published: false
+published: true
 ---
 
 # はじめに
