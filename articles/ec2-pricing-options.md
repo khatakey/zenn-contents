@@ -3,7 +3,7 @@ title: "EC2の主な購入オプションとその特徴メモ"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws"]
-published: truee
+published: true
 ---
 # 購入オプション
 おおまかに4種類の購入オプションがある
